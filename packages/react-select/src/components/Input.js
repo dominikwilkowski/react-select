@@ -1,7 +1,6 @@
 // @flow
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { type ElementRef } from 'react';
-import { jsx } from '@emotion/core';
 import AutosizeInput from 'react-input-autosize';
 
 import type { PropsWithStyles, ClassNamesState } from '../types';

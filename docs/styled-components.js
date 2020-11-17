@@ -1,6 +1,5 @@
 // @flow
-/** @jsx emotionJSX */
-import { jsx as emotionJSX } from '@emotion/core';
+/** @jsxImportSource @emotion/react */
 
 import SyntaxHighlighter, {
   registerLanguage,

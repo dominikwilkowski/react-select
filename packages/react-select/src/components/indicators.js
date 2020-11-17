@@ -1,7 +1,7 @@
 // @flow
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { type Node } from 'react';
-import { jsx, keyframes } from '@emotion/core';
+import { keyframes } from '@emotion/react';
 
 import type { CommonProps, Theme } from '../types';
 

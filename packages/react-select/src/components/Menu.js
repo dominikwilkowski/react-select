@@ -1,5 +1,5 @@
 // @flow
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import {
   createContext,
   Component,
@@ -7,7 +7,6 @@ import {
   type ElementRef,
   type Node,
 } from 'react';
-import { jsx } from '@emotion/core';
 import { createPortal } from 'react-dom';
 
 import {

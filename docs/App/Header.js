@@ -1,8 +1,7 @@
 // @flow
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import fetch from 'unfetch';
 import { Component, type Node } from 'react';
-import { jsx } from '@emotion/core';
 import { withRouter } from 'react-router-dom';
 
 import Select from 'react-select';

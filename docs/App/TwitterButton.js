@@ -1,6 +1,5 @@
 // @flow
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
+/** @jsxImportSource @emotion/react */
 
 const TwitterButton = () => (
   <div css={{ alignItems: 'center', display: 'inline-flex' }}>
